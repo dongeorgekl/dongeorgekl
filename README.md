@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Do George
+- 👋 Hi, I’m Don George
 - 👀 I’m interested in computer and other electronics devices
 - 🌱 I’m currently working as a developer in IoT platform and web frameworks
 - 📫 How to reach me, Mail to : dongeorge95@gmail.com
